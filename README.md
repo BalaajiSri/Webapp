@@ -7,7 +7,7 @@ A full-stack web application for generating personalized interview questions for
 - **Backend**: FastAPI (Python)
 - **Frontend**: React + Vite + TailwindCSS
 - **Database**: SQLite (SQLModel)
-- **AI**: OpenAI API (GPT-4o)
+- **AI**: OpenAI API (GPT-5 nano)
 
 ## Features
 
